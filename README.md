@@ -7,7 +7,10 @@ Some weeks that means typography and interface, other weeks a Metal shader, a Sw
 or a build pipeline. What I like is the whole arc. The idea, the craft, and the unglamorous
 last mile that turns it into something a stranger can actually use.
 
-This account is a slice of it, the part that happens to be code.
+This account is one slice of that, the part that happens to be code. The rest is client
+projects, writing about how the work actually goes on [Medium](https://medium.com/@jarllyng)
+and [Indie Hackers](https://www.indiehackers.com/iamjarl), and making music, which is where
+several of my own apps came from.
 
 **IAMJARL** is the name I ship my own work under. Small native Apple apps and web tools, held
 together by a design system that spans the web, SwiftUI and React Native, so one person's
